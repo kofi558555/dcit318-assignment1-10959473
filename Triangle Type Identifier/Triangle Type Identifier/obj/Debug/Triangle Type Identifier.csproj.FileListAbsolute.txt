@@ -1,0 +1,7 @@
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\Triangle Type Identifier.exe.config
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\Triangle Type Identifier.exe
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\Triangle Type Identifier.pdb
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.csproj.AssemblyReference.cache
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.csproj.CoreCompileInputs.cache
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.exe
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.pdb
