@@ -1,0 +1,7 @@
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Ticet Price Calculator\Ticet Price Calculator\bin\Debug\Ticet Price Calculator.exe.config
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Ticet Price Calculator\Ticet Price Calculator\bin\Debug\Ticet Price Calculator.exe
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Ticet Price Calculator\Ticet Price Calculator\bin\Debug\Ticet Price Calculator.pdb
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Ticet Price Calculator\Ticet Price Calculator\obj\Debug\Ticet Price Calculator.csproj.AssemblyReference.cache
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Ticet Price Calculator\Ticet Price Calculator\obj\Debug\Ticet Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Ticet Price Calculator\Ticet Price Calculator\obj\Debug\Ticet Price Calculator.exe
+C:\Users\Kofi Prince\source\repos\dcit318-assignment1-10959473\Ticet Price Calculator\Ticet Price Calculator\obj\Debug\Ticet Price Calculator.pdb
